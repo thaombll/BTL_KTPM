@@ -1,0 +1,20 @@
+{
+  "name": "ktpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/translate": "^9.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "google-translate-api-x": "^10.7.2",
+    "pdfkit": "^0.17.0",
+    "tesseract.js": "^4.1.1"
+  }
+}
